@@ -8,3 +8,7 @@ En esta primera semana:
 - Vimos diferentes herramientas que nos ayudan en el desarrollo de software
 - Iniciamos a aprender NodeJS 
 - Definimos objetos, encapsulamos funiciones y vimos conceptos básicos de modularización 
+
+## Y lo mas importante de todo lo aprendido:
+
+## ¡NO TE RINDAS, EXPERIMENTA Y JUEGA CON LOS CODIGOS!
